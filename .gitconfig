@@ -1,0 +1,20 @@
+[user]
+        email = jamro1149@gmail.com
+        name = James C
+[push]
+        default = simple
+[grep]
+        lineNumber = true
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        fgrep = grep -F
+[log]
+        decorate = auto
+        abbrevCommit = true
+[core]
+        whitespace = blank-at-eol,-blank-at-eof,space-before-tab
+[http]
+        emptyAuth = true
