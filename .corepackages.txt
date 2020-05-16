@@ -96,4 +96,3 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xss-lock
-xterm
